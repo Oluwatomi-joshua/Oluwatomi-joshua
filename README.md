@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Thompson 👋
 
-<!--
-**Oluwatomi-joshua/Oluwatomi-joshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software engineer specializing in frontend development.
 
-Here are some ideas to get you started:
+## About me
+- Student developer focused on building strong fundamentals
+- Interested in frontend development and user-focused design
+- Learning through hands-on projects and continuous practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- Building frontend projects to improve my skills
+- Strengthening problem-solving skills
+
+## Interests
+- Frontend development
+- Web fundamentals
+- UI and user experience
+
+## Fun Facts
+- I like ice-cream
+- JJK is my favourite anime
+
+## Connect
+- LinkedIn: www.linkedin.com/in/oluwatomi-thompson
+- GitHub: You’re already here 🙂
